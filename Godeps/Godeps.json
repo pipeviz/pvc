@@ -1,0 +1,59 @@
+{
+	"ImportPath": "github.com/pipeviz/pvc",
+	"GoVersion": "go1.5.1",
+	"Deps": [
+		{
+			"ImportPath": "github.com/inconshreveable/mousetrap",
+			"Rev": "76626ae9c91c4f2a10f34cad8ce83ea42c93bb75"
+		},
+		{
+			"ImportPath": "github.com/mndrix/ps",
+			"Rev": "33ddf69629c1bcea76b04f4a4e9e00e4cce82eb6"
+		},
+		{
+			"ImportPath": "github.com/pipeviz/pipeviz/maputil",
+			"Comment": "v0.0.1-578-g6e18b17",
+			"Rev": "6e18b17e8b185c7a6af635bf07b21a2fe2b65f44"
+		},
+		{
+			"ImportPath": "github.com/pipeviz/pipeviz/represent/q",
+			"Comment": "v0.0.1-578-g6e18b17",
+			"Rev": "6e18b17e8b185c7a6af635bf07b21a2fe2b65f44"
+		},
+		{
+			"ImportPath": "github.com/pipeviz/pipeviz/schema",
+			"Comment": "v0.0.1-578-g6e18b17",
+			"Rev": "6e18b17e8b185c7a6af635bf07b21a2fe2b65f44"
+		},
+		{
+			"ImportPath": "github.com/pipeviz/pipeviz/types/semantic",
+			"Comment": "v0.0.1-578-g6e18b17",
+			"Rev": "6e18b17e8b185c7a6af635bf07b21a2fe2b65f44"
+		},
+		{
+			"ImportPath": "github.com/pipeviz/pipeviz/types/system",
+			"Comment": "v0.0.1-578-g6e18b17",
+			"Rev": "6e18b17e8b185c7a6af635bf07b21a2fe2b65f44"
+		},
+		{
+			"ImportPath": "github.com/spf13/cobra",
+			"Rev": "ebb2d55f56cfec37ad899ad410b823805cc38e3c"
+		},
+		{
+			"ImportPath": "github.com/spf13/pflag",
+			"Rev": "beb8d730f2afc6c3fe75312ad6f61a3dc47a64aa"
+		},
+		{
+			"ImportPath": "github.com/xeipuuv/gojsonpointer",
+			"Rev": "636edb2500d21f2ed09ea96a00deb36bbd07cf70"
+		},
+		{
+			"ImportPath": "github.com/xeipuuv/gojsonreference",
+			"Rev": "2df3c0c802434c5cb984dbc21425f5960bda4d16"
+		},
+		{
+			"ImportPath": "github.com/xeipuuv/gojsonschema",
+			"Rev": "71b85f61a135e79143f3d3238d5175a4f29b6689"
+		}
+	]
+}
